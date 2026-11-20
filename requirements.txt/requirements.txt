@@ -1,0 +1,8 @@
+</> Plain text
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+joblib
+openpyxl
